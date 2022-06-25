@@ -1,0 +1,3 @@
+# Project exclude paths
+/cleopatra-server/target/
+/cleopatra-ui/target/
